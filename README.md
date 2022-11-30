@@ -1,6 +1,9 @@
 # nodeless
 primeira funcao lambda na aws
 
+INSTALANDO SERVERLESS >>>>
+npm install serverless
+
 CRIANDO PROJETO >>>>>>>>>>>>
 serverless create --template aws-nodejs --path nodeless
 
